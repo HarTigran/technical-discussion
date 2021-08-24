@@ -14,3 +14,8 @@ This is a good example of [my code](https://gist.github.com/HarTigran/a6ebc5bd6f
 ### Colab Example
 
 This is [notbook](https://colab.research.google.com/drive/18hqVR8BGmmERp0PqbXRVwAcRiG3Iq6FN?usp=sharing)  
+
+### Image
+
+[screenshot](https://github.com/HarTigran/technical-discussion/issues/1#issue-977615282)
+
