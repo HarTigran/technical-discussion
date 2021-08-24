@@ -17,5 +17,5 @@ This is [notbook](https://colab.research.google.com/drive/18hqVR8BGmmERp0PqbXRVw
 
 ### Image
 
-[screenshot](https://github.com/HarTigran/technical-discussion/issues/1#issue-977615282)
+![2015-12-01 (5)](https://user-images.githubusercontent.com/22479437/130541719-b6a53ab7-0572-4457-bbde-226bd0a838ef.png)
 
